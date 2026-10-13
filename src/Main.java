@@ -15,6 +15,7 @@ public class Main {
         int num2 = 45;
 
         // int total = num1+num2;
+        System.out.println("Client Age: "+age);
 
 
 
